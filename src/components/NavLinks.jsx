@@ -3,12 +3,12 @@ import { NavLink } from "react-router-dom";
 const NavLinks = () => {
   return (
     <>
-      <NavLink href="/tools" className="hover:text-white">Tools</NavLink>
-      <NavLink href="/pricing" className="hover:text-white">Pricing</NavLink>
-      <NavLink href="/showcase" className="hover:text-white">Showcase</NavLink>
-      <NavLink href="/resources" className="hover:text-white">Resources</NavLink>
-      <NavLink href="/community" className="hover:text-white">Community</NavLink>
-      <NavLink href="/docs" className="hover:text-white">Docs</NavLink>
+      <NavLink href="/tools" className="text-[#7c7c6f] hover:text-[#fffce1]">Tools</NavLink>
+      <NavLink href="/pricing" className="text-[#7c7c6f] hover:text-[#fffce1]">Pricing</NavLink>
+      <NavLink href="/showcase" className="text-[#7c7c6f] hover:text-[#fffce1]">Showcase</NavLink>
+      <NavLink href="/resources" className="text-[#7c7c6f] hover:text-[#fffce1]">Resources</NavLink>
+      <NavLink href="/community" className="text-[#7c7c6f] hover:text-[#fffce1]">Community</NavLink>
+      <NavLink href="/docs" className="text-[#7c7c6f] hover:text-[#fffce1]">Docs</NavLink>
     </>
   )
 }

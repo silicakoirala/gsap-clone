@@ -6,6 +6,27 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  /* outline: 1px solid red; */
+}
 
-  text-decoration-color: beige; 
+@layer components {
+  .container {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 120rem;
+    padding-left: max(1.5rem, min(6.73139vw - .0776699rem, 8rem));
+    padding-right: max(1.5rem, min(6.73139vw - .0776699rem, 8rem));
+  }
+
+  .container--wide {
+    padding-left: max(1.5rem, min(1.5534vw + 1.13592rem, 3rem));
+    padding-right: max(1.5rem, min(1.5534vw + 1.13592rem, 3rem));
+  }
+
+  .heading-xl {
+    font-size: max(5.125rem, min(13.3333vw + 2rem, 18rem));
+    font-weight: 600;
+    letter-spacing: -.02em;
+    line-height: .9;
+  }
 }

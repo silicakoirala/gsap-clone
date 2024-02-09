@@ -1,0 +1,13 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="110" height="45" viewBox="0 0 110 45" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="AOL" style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1; visibility: inherit;">
+<g clip-path="url(#clip0_2_27)" fill="none">
+<path d="M60.566 9.96561C50.688 9.96561 43.208 17.6571 43.208 27.1777C43.208 37.2163 50.996 44.3898 60.566 44.3898C70.136 44.3898 77.891 37.2163 77.891 27.1777C77.891 17.6571 70.444 9.96561 60.566 9.96561ZM60.566 19.0565C64.834 19.0235 68.321 22.6708 68.321 27.1777C68.321 31.6516 64.823 35.2989 60.566 35.2989C56.309 35.2989 52.8 31.6516 52.8 27.1777C52.8 22.6708 56.298 19.0565 60.566 19.0565Z" fill="#FFFBE3"></path>
+<path d="M110 38.3623C110 41.6901 107.305 44.3898 103.983 44.3898C100.661 44.3898 97.966 41.6901 97.966 38.3623C97.966 35.0345 100.661 32.3347 103.983 32.3347C107.305 32.3347 110 35.0345 110 38.3623Z" fill="#FFFBE3"></path>
+<path d="M92.499 43.2439H83.05V0.500061H92.499V43.2439Z" fill="#FFFBE3"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 43.2439L17.182 0.500122H26.059L42.955 43.2439H30.932L28.93 37.2164H14.036L12.034 43.2439H0ZM26.059 28.3238H17.182L21.626 13.9767L26.059 28.3238Z" fill="#FFFBE3"></path>
+</g>
+<defs>
+<clipPath id="clip0_2_27">
+<rect width="110" height="44" fill="white" transform="translate(0 0.500031)"></rect>
+</clipPath>
+</defs>
+</svg>
